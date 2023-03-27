@@ -1,0 +1,156 @@
+{
+  "id": "3569001",
+  "name": "物流",
+  "font_family": "custom-icon",
+  "css_prefix_text": "custom-icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "31078900",
+      "name": "右备份",
+      "font_class": "youbeifen",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "31071103",
+      "name": "打板",
+      "font_class": "daban1",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "31069616",
+      "name": "待提货",
+      "font_class": "daitihuo",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "31069617",
+      "name": "安检",
+      "font_class": "anjian",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "31069618",
+      "name": "干线出发",
+      "font_class": "ganxianchufa",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "31069619",
+      "name": "到达货站",
+      "font_class": "daodahuozhan",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "31069620",
+      "name": "海外出库",
+      "font_class": "haiwaichuku",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "31069621",
+      "name": "干线到达",
+      "font_class": "ganxiandaoda",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "31069622",
+      "name": "签收",
+      "font_class": "qianshou",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "31069623",
+      "name": "快递配送",
+      "font_class": "kuaidipeisong",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "31069624",
+      "name": "海外揽收",
+      "font_class": "haiwailanshou",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "31069625",
+      "name": "结束清关",
+      "font_class": "jieshuqingguan",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "31069626",
+      "name": "开始清关",
+      "font_class": "kaishiqingguan",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "31069627",
+      "name": "提货中",
+      "font_class": "tihuozhong",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "31069628",
+      "name": "提货",
+      "font_class": "tihuo",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "31069629",
+      "name": "已出库",
+      "font_class": "yichuku",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "31069630",
+      "name": "已报关",
+      "font_class": "yibaoguan",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "31069631",
+      "name": "已订舱",
+      "font_class": "yidingcang",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "31069632",
+      "name": "已出运",
+      "font_class": "yichuyun",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "31069633",
+      "name": "已入库",
+      "font_class": "yiruku",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "31069634",
+      "name": "已中转",
+      "font_class": "yizhongzhuan",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    }
+  ]
+}
